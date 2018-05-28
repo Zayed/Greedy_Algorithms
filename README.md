@@ -1,6 +1,6 @@
 # Greedy Algorithms
 
-# Task Scheduling/Activity Selection Problem
+# Interval Scheduling/Task Scheduling/Activity Selection Problem
 Problem Link:
 1. http://www.spoj.com/problems/BUSYMAN/
 Hints: This is the classic example of "Interval Scheduling Maximization Problem".
